@@ -2,7 +2,7 @@
  Oi, meu nome é Ariely. Eu estou no ensino médio e curso Informática. <br>
  
 ## Meus objetivos
-<br> Ser feliz, viajar muito e conhecer o mundo afora.
+Ser feliz, viajar muito e conhecer o mundo afora.
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArielyZX&theme=transparent&bg_color=000&border_color=a366ff&show_icons=true&icon_color=a366ff&title_color=a366ff&text_color=FFF)
